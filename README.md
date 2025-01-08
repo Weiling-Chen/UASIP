@@ -1,1 +1,2 @@
-# UASIP
+# The code of the implementation of the Unified No-Reference Quality Assessment for Sonar Imaging and Processing (UASIP). 
+Coming soon...
